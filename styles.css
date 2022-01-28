@@ -9,6 +9,7 @@ body{
   background: linear-gradient(90deg,#00AAFF,#00FF6C);
 }
 .calculator-grid{
+  padding-top:20px;
   display: grid;
   justify-content: center;
   align-content: center;
